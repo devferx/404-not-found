@@ -16,6 +16,8 @@ html {
 
 .navbar {
   padding: 20px 12px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .navbar__title {
@@ -32,6 +34,7 @@ html {
   padding: 0 12px;
   margin-top: 6.4rem;
   width: 100%;
+  max-width: 1440px;
 }
 
 .main-content__img {
