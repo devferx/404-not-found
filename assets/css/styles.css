@@ -68,3 +68,11 @@ html {
   background-color: #333333;
   cursor: pointer;
 }
+
+.footer__text {
+  margin: 0 auto;
+  margin-top: 60px;
+  font-size: 1.7rem;
+  text-align: center;
+  line-height: 4rem;
+}
