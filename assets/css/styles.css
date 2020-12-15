@@ -25,3 +25,46 @@ html {
   line-height: 2.5rem;
   text-transform: uppercase;
 }
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  padding: 0 12px;
+  margin-top: 6.4rem;
+  width: 100%;
+}
+
+.main-content__img {
+  margin: 0px auto;
+  width: 90%;
+}
+
+.main-content__body__title {
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 7rem;
+  letter-spacing: -0.035em;
+}
+
+.main-content__body__paragraph {
+  margin-top: 3rem;
+  font-size: 1.8rem;
+}
+
+.main-content__body__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 216px;
+  height: 68px;
+  margin-top: 66px;
+  font-family: Space Mono;
+  font-weight: bold;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  background-color: #333333;
+  cursor: pointer;
+}
